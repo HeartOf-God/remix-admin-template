@@ -1,5 +1,5 @@
 import { Link } from "@remix-run/react";
-import logoImg from "./heartofgod-logo.jpg"; // Importing the image
+import logoImg from "./heartofgod-logo.jpg.jpg"; // Importing the image
 
 const Logo = () => {
   return (
