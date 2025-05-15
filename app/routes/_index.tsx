@@ -24,7 +24,7 @@ export async function loader() {
 export const meta: MetaFunction = () => {
   return [
     { title: "New Remix App" },
-    { name: "description", content: "Welcome to Remix!" },
+    { name: "description", content: "Welcome to Heart Of God" },
   ];
 };
 
@@ -39,7 +39,7 @@ export default function Index() {
       </main>
       <footer className="w-full px-4 pb-8 mx-auto max-w-7xl">
         <p className="text-sm text-center">
-          &copy; {new Date().getFullYear()} Netlify. All rights reserved.
+          &copy; {new Date().getFullYear()} Heart Of God. All Rights Reserved.
         </p>
       </footer>
     </>
