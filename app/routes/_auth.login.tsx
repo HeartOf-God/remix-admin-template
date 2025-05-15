@@ -73,7 +73,7 @@ export default function LogIn() {
     <div className="w-full max-w-2xl px-8 py-10 space-y-8 bg-white shadow-md rounded-xl lg:space-y-10 lg:px-10 lg:py-12 ">
       <div className="space-y-3">
         <h1 className="text-2xl font-semibold text-slate-900 sm:text-3xl lg:text-4xl">
-          Log In to Remix Dashboard
+          Log In to Heart Of God
         </h1>
         <div className="flex gap-3 p-3 rounded-md bg-cyan-50">
           <div className="flex items-center justify-center w-5 h-5 font-serif italic text-white rounded-full bg-cyan-500">
@@ -81,10 +81,10 @@ export default function LogIn() {
           </div>
           <div className="text-xs">
             <p>
-              Email: <span className="font-medium">demo@example.com</span>
+              Email: <span className="font-medium">KingDavid@gmali.com</span>
             </p>
             <p>
-              Password: <span className="font-medium">demo123</span>
+              Password: <span className="font-medium">Harp123</span>
             </p>
           </div>
         </div>
